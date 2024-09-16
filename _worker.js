@@ -1207,7 +1207,7 @@ function checkSUB(host) {
 			'www.visa.com.sg:2087#美国5',
 			'www.visaeurope.at:2096#美国6',
 			'www.visa.com.mt:8443#美国7',
-			'qa.visamiddleeast.com#美国8
+			'qa.visamiddleeast.com#美国8',
 			//'www.wto.org:8443',
 			//'chatgpt.com:2087',
 			//'icook.hk',
