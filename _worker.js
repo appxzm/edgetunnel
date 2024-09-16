@@ -1208,11 +1208,11 @@ function checkSUB(host) {
 			'www.visa.com.mt:8443',
 			'qa.visamiddleeast.com',
 			'time.is',
-			'www.wto.org:8443',
-			'chatgpt.com:2087',
-			'icook.hk',
+			//'www.wto.org:8443',
+			//'chatgpt.com:2087',
+			//'icook.hk',
 			//'104.17.0.0#IPv4',
-			'[2606:4700::]#IPv6'
+			//'[2606:4700::]#IPv6'
 		];
 		if (host.includes(".workers.dev")) addressesnotls = [
 			'usa.visa.com:2095',
