@@ -1199,7 +1199,7 @@ function checkSUB(host) {
 	if ((!sub || sub == '') && (addresses.length + addressesapi.length + addressesnotls.length + addressesnotlsapi.length + addressescsv.length) == 0){
 		addresses = [
 			'www.wto.org',
-			'visa.cn:443',
+			'dy.wljsq.top',
 			'www.visa.com:8443',
 			'cis.visa.com:2053',
 			'africa.visa.com:2083',
